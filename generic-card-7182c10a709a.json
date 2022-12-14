@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "generic-card",
+  "private_key_id": "7182c10a709ac1e2b7c6020023458d8e9d95d8dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDh11qiCyx36R6V\n72Hw6IDeOrv9MqnEvgviH2G8P3zJ+HXBSFNtGCjC63/trGF/1817Zj4aZRgZKSCZ\nBs/3uwgB8XbO4b2oVAxmBqRNOxsUwGN//t/2UMB65FyW5xOjwjZlTVIDuyGXjLuG\n/l4myTDvEc2b5xLSZ2E42vqekdx+fZ2kzqDPXNEtHnBKZYJNnaxIK9artw/+IFRK\nPaTD7Ws+54mEn1htC9he5VjLJXQE/GTKF6IL5BmCkx08pn8EGkmQ9F9M615CC2an\nseAuSvPxutefwp6ByUHj5Izd+f8rYFOC0MPNCUd/AH08PZc8fhsw4wdLq/gEiVcj\nYQQYm7uPAgMBAAECggEAAUV9LePPkD1aZx4OcM6+q03PTKM7yRSaYTTQOqSdhmdP\nspf9dqkgQxTrpmail0BGLfbiXnqkEHKsvVSit8fXClPzZ5tiCz0rrHoBloYiQe+8\n5kUO9zw4HeQtF6ZE7gdNRPQEnqtwpP+P+8JYnFFutl8NoPixa7IoTOBxtgwMy3Wo\ngt3pop7vN0JlnsdiB8PDryt47eYm4nQ7qZmlxh4kS7x8up+rZ5LfnKhRMN7xiuey\nMY3qvffsiroMt9gawHy9HEYJxQJ9tFQDspAaQNIg21J6CNBGG8rxGt1x7CWpSYFQ\nCZIyl7Tk32J5R0P9AK8a/Xy44kFR2d8lFXLH5K1XFQKBgQD1xHoENtFN/h1G9G61\nQMktx6FILUJ3z1/CSohCMlJyFvgTL05UY9UMDyORUWm/CSBsloib57PLlwoTvJXP\n7M2JMiD276V1zmnQvOGCSoXRTjcJ6goErLuVwAL/Xc5I29puZkCqdolVzmPbjw2s\nBVe8nGAUmDHc5aKIpzVU5NDeuwKBgQDrPn4UwBst6necb4HiJ2YnWBAmxtsiwwVB\nwW7h3UPbY47cUpV+ZAvo75Df/Ml6h+Yy1sbtBbWrQLcUAOmQXbybXjXoowFLflxM\nnR2hxMcuh2ig40jCW/cSiemm30HOd/doXemsNPZdhsvN5PBiRBN+KxIpYbAvVzGV\nzPnZQ5PrPQKBgH8RInTjUrwcUk7JOiQEZv+AY2bJ37/KPBxcJK71DaNnNMPWhY0k\nQJaHjUAo85+NvHHoMqFI3rC4WsFxk5N5P5tbi6egp8+M9TCzN3UBysY4xkQd+SgJ\nlsMKD4KwoWMSKJFD1NNNjhwLJZ3zDIKQEJi30QVU2xL2t14n9W77DvLZAoGADB48\nAHWk8MiTQMu9tRiyenRe4KB9yVyieLCuNZRgWnzWbyMR8GDW/DjbDa7H8jft89B8\njtkscpXy2GTzoyww+w/vVvyOpITt3ER7skmguRTgnukWZmy2XY4dKyt1CF3FsOql\njulrh4XaGdEhUO6Q0n8FgHw3xziGpWDZvgdtJ0ECgYAPyiPEhMz0AWkMBg/iVmGx\noKKTVpFORqGc4eSfkzbUwFpOoQ/aV6gqzr4VbJdeSKYmJwRv92u7zOHQh0NW7kvR\nQQowr+E2lxwuTnU9PD+Eysw6RfUrgW960TPNRfhRj4DksBNf0xTpQvQ4ZyJcAHax\nbxgDZnTyXDepfWHRH6Ak2Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "axis-generic-card@generic-card.iam.gserviceaccount.com",
+  "client_id": "101187580058319498515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/axis-generic-card%40generic-card.iam.gserviceaccount.com"
+}

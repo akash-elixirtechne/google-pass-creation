@@ -1,0 +1,57 @@
+new_object = {
+            'id': f'{issuer_id}.{object_suffix}',
+            'classId': class_id,
+            'state': 'ACTIVE',
+            'header': {
+                'defaultValue': {
+                    'language': 'en-US',
+                    'value': 'Axis Cards'
+                }
+            },
+            "textModulesData": [
+                {
+                    "id": "Name",
+                    "header": "Name",
+                    "body": "Test",
+                },
+                {
+                    "id": "IssueOn",
+                    "header": "Issue On",
+                    "body": "Date",
+                },
+                {
+                    "id": "Expiry",
+                    "header": "Expiry",
+                    "body": "Date",
+                },
+            ],
+            'barcode': {
+                "type": "QR_CODE",
+                "value": "BARCODE_VALUE",
+                "alternateText": "fca",
+              },
+            'cardTitle': {
+                'defaultValue': {
+                    'language': 'en-US',
+                    'value': 'Axis Cards'
+                }
+            },
+
+            "hexBackgroundColor": "#b589ec",
+            'logo': {
+                'sourceUri': {
+                    'uri':
+                        'https://drive.google.com/file/d/1WQepC6KcRn52E9WAIIX1pfnUTe4Ne8s5/view?usp=share_link'
+                },
+                'contentDescription': {
+                    'defaultValue': {
+                        'language': 'en-US',
+                        'value': 'Axis Card'
+                    }
+                }
+            }
+        }
+
+
+
+        "/home/elixirtechne/PycharmProject/Generic_pass_with_google/generic-card-7182c10a709a.json"
